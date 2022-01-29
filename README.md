@@ -6,4 +6,4 @@ Noncollision logo of qb without lights on.
 ![image](https://user-images.githubusercontent.com/70021784/151675767-fb6eb646-311b-46f2-82cd-d08141deb388.png)
 
 
-Thanks to https://github.com/ComunistaCZ and swap_frifalll'la, for converting and global help
+Thanks to https://github.com/ComunistaCZ and swap_frifalll'la, for converting and global help.
